@@ -1,0 +1,1001 @@
+Gender,Age,Educational Level,Little interest or pleasure in doing things ,"Feeling down, depressed, or hopeless","Trouble falling or staying asleep, or sleeping too much",Feeling tired or having little energy,Poor appetite or overeating,Feeling bad about yourself or that you are a failure or not have let yourself or your family down,"Trouble concentrating on things, such as reading the newspaper or watching television",Moving or speaking so slowly that other people could have noticed Or being so restless that you have been moving around a lot more than usual,Thoughts that you would be better off dead or of hurting yourself in some way,Do you have part-time or full-time job?,Which of the following best describes your term-time accommodation?,How many hours do you spend studying each day?,How many of the electronic gadgets,How many hours do you spend on social media per day?,Your Last Semester GPA: 
+Male,19 to 24 years,College - Bachelor's,3,2,4,4,3,3,4,3,2,Part Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,2.3
+Male,19 to 24 years,College - Bachelor's,2,1,2,1,1,1,1,1,1,Part Time,University hall of residence,1 - 2 hours,1 - 3,1 - 2 Hours,2.7
+Female,18 years or less,High School,2,2,2,2,1,1,2,2,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.97
+Female,18 years or less,High School,3,1,2,3,3,1,1,1,2,No,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,2.74
+Male,18 years or less,High School,1,2,2,3,1,1,3,1,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,3.37
+Female,25 years and above,Master,1,2,3,4,3,1,3,3,1,Part Time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,3.33
+Female,19 to 24 years,College - Bachelor's,2,2,3,3,1,1,2,2,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,2.75
+Male,19 to 24 years,Master,3,3,3,3,3,3,3,3,3,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.25
+Female,19 to 24 years,College - Bachelor's,3,1,4,3,1,2,1,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,3.97
+Female,19 to 24 years,High School,3,4,2,2,4,3,4,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.75
+Female,19 to 24 years,College - Bachelor's,2,4,4,3,2,3,4,1,3,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.97
+Female,25 years and above,Master,1,2,3,4,3,1,3,3,1,Part Time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,2.25
+Male,25 years and above,Master,1,1,3,3,1,1,3,1,1,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,Not Applicable,3.25
+Male,18 years or less,High School,1,1,1,1,1,1,1,1,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.25
+Male,25 years and above,College - Bachelor's,1,1,1,1,2,2,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,1 - 2 Hours,2.75
+Male,19 to 24 years,College - Bachelor's,1,1,3,2,1,1,2,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.23
+Female,19 to 24 years,College - Bachelor's,1,1,1,2,1,2,1,1,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.75
+Female,25 years and above,College - Bachelor's,1,1,2,2,1,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.98
+Male,25 years and above,College - Bachelor's,4,4,4,4,4,4,4,4,4,Full Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,2.3
+Male,19 to 24 years,High School,2,3,4,4,4,3,4,2,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.25
+Female,25 years and above,College - Bachelor's,3,3,4,3,3,3,2,1,3,No,Home (with parents),More than 4 hours,More than 6,2 - 4 Hours,2.3
+Female,25 years and above,Master,4,3,1,4,4,3,4,2,2,Full Time,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.97
+Female,19 to 24 years,College - Bachelor's,4,4,4,4,4,4,3,2,4,No,Private rented accommodation,More than 4 hours,4 - 6,More than 4 Hours,3.25
+Male,19 to 24 years,College - Bachelor's,2,1,1,1,1,2,1,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.2
+Female,18 years or less,High School,2,1,3,3,2,3,1,1,1,No,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,3.25
+Male,25 years and above,College - Bachelor's,1,2,1,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,4
+Female,19 to 24 years,High School,2,3,4,4,4,3,3,2,2,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,2.4
+Female,19 to 24 years,High School,3,4,2,2,4,3,4,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.75
+Female,25 years and above,College - Bachelor's,3,2,4,2,4,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.75
+Female,25 years and above,College - Bachelor's,2,2,3,2,1,1,2,1,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,3.25
+Female,19 to 24 years,College - Bachelor's,2,1,3,2,3,3,2,1,1,No,Private rented accommodation,More than 4 hours,1 - 3,More than 4 Hours,2.97
+Female,18 years or less,High School,2,3,4,1,3,2,3,2,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,3.76
+Male,25 years and above,Master,1,1,3,2,1,1,1,2,1,Full Time,Private rented accommodation,More than 4 hours,4 - 6,1 - 2 Hours,4
+Female,19 to 24 years,High School,4,2,4,4,4,2,2,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.75
+Female,25 years and above,Master,2,2,2,3,2,1,2,1,1,Part Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4
+Male,25 years and above,High School,2,2,4,3,3,3,2,2,3,No,Home (with parents),More than 4 hours,4 - 6,2 - 4 Hours,2.78
+Female,19 to 24 years,College - Bachelor's,2,1,2,1,1,2,2,3,3,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.97
+Female,19 to 24 years,High School,2,3,3,4,4,4,1,1,2,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.32
+Male,25 years and above,Master,2,2,2,2,1,2,2,1,1,Part Time,Private rented accommodation,More than 4 hours,1 - 3,1 - 2 Hours,2.73
+Male,25 years and above,Master,1,2,3,1,2,1,3,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.87
+Female,19 to 24 years,College - Bachelor's,2,2,4,3,3,2,3,1,2,No,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,2.75
+Female,25 years and above,College - Bachelor's,1,2,4,3,4,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.73
+Female,19 to 24 years,High School,2,2,1,2,2,2,3,2,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.83
+Female,19 to 24 years,College - Bachelor's,1,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.75
+Female,25 years and above,College - Bachelor's,1,1,1,2,3,3,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.84
+Female,19 to 24 years,Master,2,2,4,4,4,1,4,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.75
+Male,19 to 24 years,College - Bachelor's,3,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.75
+Male,19 to 24 years,Master,1,2,4,2,2,2,1,3,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.76
+Male,25 years and above,College - Bachelor's,3,3,4,4,4,1,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,3.93
+Female,19 to 24 years,College - Bachelor's,1,1,2,1,2,3,1,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,1 - 2 Hours,3.42
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.15
+Male,25 years and above,Master,2,2,2,3,1,2,3,2,1,Full Time,University hall of residence,2 - 4 hours,4 - 6,1 - 2 Hours,3.98
+Female,25 years and above,Master,3,3,1,4,3,3,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,2.5
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.1
+Female,19 to 24 years,College - Bachelor's,2,2,2,4,2,2,2,1,1,No,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.54
+Male,25 years and above,Master,2,2,2,2,2,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.27
+Male,25 years and above,Master,2,2,2,2,2,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.27
+Male,25 years and above,College - Bachelor's,2,2,4,1,2,3,3,2,3,No,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.37
+Female,18 years or less,High School,4,4,4,4,4,4,4,2,4,No,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,2.2
+Male,18 years or less,High School,4,2,4,3,4,2,1,1,1,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,4
+Female,18 years or less,High School,3,2,1,2,2,3,3,2,2,No,Home (with parents),2 - 4 hours,More than 6,2 - 4 Hours,3.05
+Female,18 years or less,High School,3,1,2,3,3,1,1,2,2,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,2.3
+Female,18 years or less,High School,1,2,2,1,1,1,2,1,2,No,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,4
+Male,18 years or less,High School,4,2,4,1,4,2,2,1,1,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4
+Female,18 years or less,High School,2,2,3,2,4,2,2,1,4,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.75
+Female,18 years or less,High School,2,2,3,2,4,2,2,1,4,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.75
+Female,18 years or less,High School,3,2,1,3,2,4,4,2,4,No,Home (with parents),More than 4 hours,More than 6,2 - 4 Hours,3.5
+Female,18 years or less,High School,3,1,2,3,3,1,1,2,2,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,2.47
+Male,25 years and above,College - Bachelor's,1,2,2,2,3,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2
+Female,18 years or less,High School,2,2,3,2,4,2,2,1,4,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.75
+Female,25 years and above,College - Bachelor's,1,1,4,2,3,2,2,2,1,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,3.41
+Female,25 years and above,Master,1,1,3,2,2,1,1,1,1,Full Time,Private rented accommodation,More than 4 hours,4 - 6,2 - 4 Hours,3.7
+Female,18 years or less,High School,3,2,4,3,3,2,2,1,1,No,Home (with parents),More than 4 hours,1 - 3,Not Applicable,2.1
+Male,25 years and above,College - Bachelor's,2,1,1,2,1,1,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,1 - 2 Hours,3.24
+Female,25 years and above,College - Bachelor's,3,2,4,4,3,1,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,3.89
+Female,18 years or less,High School,1,1,1,1,1,1,1,1,1,Part Time,Home (with parents),1 - 2 hours,None,1 - 2 Hours,2.85
+Male,19 to 24 years,College - Bachelor's,2,2,4,3,3,2,3,2,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,2,2,1,3,1,2,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,3,1,3,3,4,3,3,3,2,No,Home (with parents),2 - 4 hours,1 - 3,1 - 2 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,4,4,4,3,3,4,2,4,2,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,2.3
+Female,19 to 24 years,High School,2,2,3,3,2,3,1,1,1,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.35
+Female,19 to 24 years,High School,1,1,1,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,1,2,4,4,1,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,2,2,3,2,3,2,3,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,1.3
+Female,25 years and above,College - Bachelor's,2,1,1,1,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,None,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,3,4,3,4,3,2,2,1,1,No,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.3
+Female,25 years and above,High School,3,2,4,4,2,3,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,None,2 - 4 Hours,1.3
+Female,18 years or less,High School,3,3,4,4,4,4,4,4,3,No,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,2,3,4,4,2,4,2,4,1,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,1,2,4,1,1,4,1,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Male,25 years and above,College - Bachelor's,2,2,1,2,3,3,3,1,4,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,1,2,2,2,2,1,1,1,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4
+Female,25 years and above,College - Bachelor's,1,1,2,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,3,4,4,4,4,4,4,1,4,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Male,19 to 24 years,College - Bachelor's,4,2,2,1,4,2,1,2,1,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,3,2,3,4,4,3,4,1,3,Full Time,Home (with parents),1 - 2 hours,4 - 6,Not Applicable,2.3
+Female,25 years and above,College - Bachelor's,2,2,2,2,2,1,2,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,18 years or less,College - Bachelor's,3,2,4,2,4,1,1,4,1,No,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,25 years and above,High School,3,2,4,3,4,2,2,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,1,2,4,1,1,3,4,1,1,No,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,2.3
+Female,25 years and above,High School,2,2,2,2,1,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,1,4,4,4,4,4,4,1,3,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,19 to 24 years,College - Bachelor's,2,2,4,2,4,3,2,1,2,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,3,2,4,1,2,4,2,2,2,No,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,1.3
+Female,19 to 24 years,College - Bachelor's,3,2,3,2,1,2,2,1,2,Part Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,2,2,3,2,4,2,2,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,2,3,3,2,4,2,2,2,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,1,3,3,2,2,3,2,2,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,19 to 24 years,High School,2,1,1,4,4,1,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,None,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,1,2,2,3,4,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,3,1,4,4,2,4,3,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,2,4,4,4,2,2,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,4,2,4,4,4,4,1,2,1,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,2.3
+Male,19 to 24 years,College - Bachelor's,2,2,1,4,1,4,1,2,3,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,2.3
+Male,19 to 24 years,High School,3,3,3,4,4,2,4,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,19 to 24 years,High School,2,1,1,2,3,1,3,1,1,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,2,1,4,2,2,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,3,3,3,4,2,4,4,2,2,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,4,3,4,4,4,4,2,1,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,1,4,2,4,1,1,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,High School,2,4,4,4,4,4,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,2,1,1,1,1,2,3,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,19 to 24 years,College - Bachelor's,2,2,1,1,3,4,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.35
+Female,19 to 24 years,High School,2,2,2,3,2,3,1,1,3,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,2,1,2,2,1,1,1,1,1,No,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,4
+Female,25 years and above,College - Bachelor's,2,3,4,3,4,2,2,3,1,Part Time,Home (with parents),More than 4 hours,More than 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,1,1,1,2,1,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,4
+Female,25 years and above,High School,1,2,1,2,2,4,2,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,2,4,4,3,3,3,3,3,1,No,Private rented accommodation,More than 4 hours,4 - 6,2 - 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,3,3,2,3,2,4,2,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,3,4,4,4,4,4,3,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,3,3,4,4,4,3,2,2,2,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,3.35
+Female,19 to 24 years,High School,2,3,3,3,3,3,3,2,2,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,3,3,4,3,4,3,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.35
+Female,25 years and above,High School,3,1,1,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,4
+Female,25 years and above,College - Bachelor's,2,3,2,4,2,4,2,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,High School,1,1,2,1,1,1,1,1,1,No,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,4
+Male,25 years and above,High School,4,1,2,1,2,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,4,3,3,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,18 years or less,High School,1,4,4,4,4,3,3,1,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,2,3,3,2,3,3,3,2,No,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,2.3
+Female,19 to 24 years,High School,2,1,2,1,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,High School,2,3,4,4,4,3,4,4,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,4,4,4,3,1,4,3,3,4,Part Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,3,3,2,2,2,4,1,1,1,Full Time,Home (with parents),1 - 2 hours,More than 6,1 - 2 Hours,2.3
+Female,25 years and above,College - Bachelor's,3,1,3,3,2,2,3,1,1,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,1,2,3,2,2,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.35
+Female,19 to 24 years,High School,2,1,2,3,2,1,3,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,25 years and above,College - Bachelor's,2,1,1,2,2,2,2,1,1,No,Private rented accommodation,More than 4 hours,1 - 3,2 - 4 Hours,3.35
+Female,25 years and above,High School,2,2,2,2,1,2,2,2,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,2,4,4,3,4,4,2,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,2,1,3,2,1,2,2,3,1,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,2,2,4,3,2,3,4,4,1,Full Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,2.3
+Female,19 to 24 years,High School,2,1,4,4,1,2,1,1,1,No,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,1,1,1,1,1,1,1,1,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,1.3
+Female,25 years and above,College - Bachelor's,1,1,1,1,1,1,1,1,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,1.3
+Female,19 to 24 years,High School,2,1,1,2,2,1,1,1,1,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,2,2,2,4,2,1,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.35
+Female,19 to 24 years,High School,3,3,4,2,3,2,1,1,1,Part Time,Home (with parents),2 - 4 hours,More than 6,1 - 2 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,2,4,4,2,4,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,2.3
+Female,18 years or less,College - Bachelor's,1,4,4,3,3,2,1,1,1,Part Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,2.3
+Female,19 to 24 years,High School,2,1,2,2,2,3,1,1,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,2,1,2,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.35
+Female,19 to 24 years,High School,3,3,4,4,4,4,4,3,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,25 years and above,High School,4,4,4,4,4,4,4,4,4,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,19 to 24 years,High School,1,1,3,3,1,1,1,1,1,Full Time,Home (with parents),More than 4 hours,1 - 3,1 - 2 Hours,4
+Female,19 to 24 years,High School,4,4,4,4,4,4,4,4,4,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.35
+Female,19 to 24 years,High School,3,4,4,4,1,4,2,4,4,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.35
+Female,19 to 24 years,High School,2,2,2,2,2,2,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,4
+Female,19 to 24 years,High School,3,3,4,4,4,4,4,4,3,Part Time,Private rented accommodation,More than 4 hours,1 - 3,2 - 4 Hours,2.3
+Female,19 to 24 years,High School,2,2,2,2,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,3,4,4,1,3,4,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,1,2,3,3,3,1,1,1,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,High School,4,3,4,4,4,3,2,4,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,2,2,4,4,2,3,4,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,2,2,2,4,2,3,2,4,1,Part Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,1
+Female,25 years and above,College - Bachelor's,2,1,3,3,3,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,3,4,4,3,4,3,2,2,2,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,4,1,2,1,1,1,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,4
+Female,19 to 24 years,High School,2,3,3,3,3,4,2,3,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,2,3,2,3,3,1,1,1,Full Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,4
+Female,19 to 24 years,High School,4,3,4,4,3,3,2,4,2,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,2,2,2,3,2,2,2,2,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,2,2,4,2,2,1,1,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,18 years or less,High School,4,4,4,3,4,4,1,4,4,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,2,3,4,3,2,3,2,3,3,No,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,3.35
+Female,19 to 24 years,High School,2,2,2,2,3,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,1,1,1,1,1,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,3,2,4,4,2,2,4,4,2,No,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,High School,2,4,4,3,3,3,2,2,3,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,19 to 24 years,High School,2,1,4,2,4,1,4,2,1,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,3,3,4,4,4,2,2,2,2,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,19 to 24 years,High School,2,1,1,3,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,3,2,1,3,2,2,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,19 to 24 years,High School,3,4,4,4,2,4,4,4,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,3,4,3,4,4,2,2,2,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,19 to 24 years,High School,3,2,4,4,4,2,1,1,3,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,25 years and above,Master,4,3,4,4,2,3,3,3,1,No,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,3,1,3,3,1,1,1,1,1,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4
+Female,25 years and above,Master,3,2,2,2,2,2,1,1,1,No,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,4
+Female,18 years or less,High School,2,1,4,4,4,1,1,1,1,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,3,1,4,3,3,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,19 to 24 years,High School,4,3,3,4,4,3,4,4,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,High School,3,3,4,4,4,2,3,2,1,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,3,2,4,4,4,4,1,2,4,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,1,4,3,2,1,2,1,4,Full Time,Home (with parents),More than 4 hours,More than 6,More than 4 Hours,4
+Female,25 years and above,College - Bachelor's,3,3,3,2,2,3,2,2,4,Part Time,Private rented accommodation,More than 4 hours,More than 6,More than 4 Hours,4
+Female,25 years and above,High School,1,1,4,3,1,3,2,3,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,3,3,3,2,3,1,1,3,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,3.35
+Female,19 to 24 years,High School,3,2,3,4,2,4,4,2,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,1.3
+Female,25 years and above,Master,2,1,2,2,1,1,2,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,2,1,2,1,2,1,1,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,4
+Female,19 to 24 years,High School,3,4,2,3,1,4,3,2,2,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,1.3
+Female,19 to 24 years,High School,3,4,4,3,3,4,2,1,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,2,2,3,4,4,4,2,2,1,No,Home (with parents),More than 4 hours,1 - 3,2 - 4 Hours,1.3
+Female,25 years and above,High School,4,4,4,4,3,4,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,1,3,3,1,3,1,1,1,No,Home (with parents),1 - 2 hours,More than 6,1 - 2 Hours,2.3
+Female,25 years and above,High School,2,4,4,4,4,3,2,3,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4
+Female,18 years or less,High School,2,3,4,4,3,3,2,1,1,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,3.35
+Female,19 to 24 years,High School,4,4,4,4,4,3,2,1,1,No,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,4
+Female,25 years and above,Master,1,1,3,1,2,1,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,1,2,3,3,2,2,1,4,2,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,2,3,1,2,1,3,1,1,3,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,2,3,4,1,2,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.3
+Male,25 years and above,College - Bachelor's,2,1,1,3,2,1,1,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Female,19 to 24 years,High School,4,3,4,3,2,4,4,1,3,Part Time,Private rented accommodation,More than 4 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,High School,1,3,4,3,1,3,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,3,2,4,4,4,4,2,2,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,2,2,3,3,3,2,4,3,2,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,2,1,3,4,2,2,3,1,1,Part Time,Home (with parents),More than 4 hours,1 - 3,2 - 4 Hours,4
+Female,19 to 24 years,High School,2,2,3,3,3,2,2,1,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,4
+Female,19 to 24 years,High School,2,1,2,2,3,1,1,1,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,Not Applicable,2.3
+Male,25 years and above,College - Bachelor's,2,3,2,3,4,2,2,2,2,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,High School,2,2,3,3,4,2,1,1,1,Part Time,Private rented accommodation,More than 4 hours,1 - 3,More than 4 Hours,3.35
+Female,18 years or less,High School,1,2,2,1,1,1,1,1,1,Part Time,Private rented accommodation,More than 4 hours,4 - 6,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,1,1,1,1,4,1,1,1,1,Full Time,Private rented accommodation,More than 4 hours,More than 6,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,1,3,3,2,1,1,1,1,Full Time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,2.3
+Female,19 to 24 years,High School,2,3,4,4,3,4,3,2,1,No,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,1,1,2,1,1,1,1,1,1,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,4,4,4,4,4,4,4,2,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,1,1,2,4,4,1,2,1,Part Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4
+Female,19 to 24 years,High School,2,3,4,4,4,3,2,1,1,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,3,2,4,4,4,4,4,3,3,Full Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,25 years and above,Master,2,4,4,4,4,4,4,4,4,Full Time,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,4
+Female,25 years and above,College - Bachelor's,4,3,3,3,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,3,2,3,3,2,2,1,1,Part Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4
+Female,25 years and above,College - Bachelor's,2,3,1,2,3,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,4,4,4,4,4,4,4,4,1,Part Time,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.3
+Female,25 years and above,High School,2,1,2,3,3,1,1,2,1,No,Private rented accommodation,More than 4 hours,4 - 6,2 - 4 Hours,4
+Female,19 to 24 years,High School,2,3,4,2,4,4,2,3,2,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,2,1,3,2,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,4,3,4,4,4,4,1,1,2,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,3,4,3,2,3,4,3,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,3,1,3,2,1,1,1,1,1,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,4
+Female,25 years and above,College - Bachelor's,2,2,4,4,1,1,1,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,4,3,4,3,4,4,4,3,4,Part Time,Home (with parents),More than 4 hours,1 - 3,1 - 2 Hours,2.3
+Male,19 to 24 years,High School,2,3,1,3,3,3,3,3,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,2,1,2,2,2,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,2,1,3,2,1,3,2,1,1,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,3,4,2,4,4,4,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1
+Female,25 years and above,College - Bachelor's,4,3,2,4,2,4,4,2,4,Part Time,Home (with parents),1 - 2 hours,1 - 3,1 - 2 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,2,2,3,4,4,3,3,4,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,1,2,2,1,2,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,2,4,3,4,1,1,2,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,1,1,2,2,2,2,2,1,1,No,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,4,4,4,3,3,3,1,1,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,3,3,4,4,4,4,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,18 years or less,High School,1,1,2,1,2,1,1,1,1,No,Home (with parents),1 - 2 hours,More than 6,1 - 2 Hours,4
+Female,25 years and above,College - Bachelor's,3,1,4,3,2,1,2,1,1,No,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,2.3
+Female,19 to 24 years,High School,2,1,1,2,1,1,2,1,1,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,2,4,2,4,4,4,3,2,2,No,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,3,1,2,3,2,2,2,2,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,High School,4,4,4,4,4,4,4,2,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,18 years or less,High School,2,2,1,2,1,3,1,1,1,Part Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.35
+Female,18 years or less,High School,2,2,2,2,1,2,1,1,1,Part Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.35
+Female,25 years and above,High School,2,2,3,4,2,3,2,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,2,3,2,3,3,4,2,1,1,Full Time,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,2,3,2,4,4,3,4,3,1,No,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,2,2,1,1,1,1,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,3,4,4,3,4,4,4,2,2,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,3,3,4,3,3,3,3,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,High School,2,2,1,2,4,3,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,4,3,4,4,2,1,1,3,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,2,2,3,2,3,3,3,2,2,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,1.3
+Female,18 years or less,High School,2,1,4,4,3,3,3,1,2,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,4,4,3,3,3,3,2,1,1,No,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,4,4,3,3,4,4,3,2,4,Part Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,3,3,4,4,3,3,3,2,3,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,19 to 24 years,High School,3,2,4,3,3,4,2,1,2,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.3
+Female,25 years and above,High School,3,2,2,4,2,4,2,3,1,Full Time,Home (with parents),More than 4 hours,4 - 6,2 - 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,3,4,3,4,3,4,1,3,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,3.35
+Female,19 to 24 years,High School,3,3,4,4,4,3,4,3,3,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,2,4,4,4,3,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,25 years and above,High School,3,3,4,4,3,3,4,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,3,3,2,4,3,3,3,1,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,High School,1,4,2,2,2,4,1,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,Not Applicable,3.35
+Female,25 years and above,College - Bachelor's,4,3,1,4,4,4,4,4,2,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,3,3,4,1,2,4,4,1,Part Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.35
+Female,19 to 24 years,High School,2,1,2,3,3,2,4,2,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,2,1,2,2,2,2,2,2,1,Part Time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,3,4,2,4,1,2,2,2,1,Full Time,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,4
+Female,18 years or less,High School,4,1,3,4,1,1,4,3,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.35
+Female,19 to 24 years,High School,2,2,3,3,2,3,2,1,1,No,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.35
+Female,19 to 24 years,High School,3,4,2,3,3,3,2,1,1,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Male,19 to 24 years,College - Bachelor's,2,1,4,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,2.3
+Female,25 years and above,Master,2,1,1,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,4
+Female,25 years and above,College - Bachelor's,2,1,2,1,2,4,1,3,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,1.3
+Female,25 years and above,College - Bachelor's,3,4,4,4,2,3,2,3,2,Full Time,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,3.35
+Female,19 to 24 years,High School,1,1,2,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,3,2,3,4,2,2,3,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Female,19 to 24 years,High School,3,1,4,3,3,4,2,1,1,Part Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,2,3,4,3,1,3,1,1,Full Time,Home (with parents),1 - 2 hours,None,More than 4 Hours,1.3
+Female,19 to 24 years,College - Bachelor's,3,2,3,4,3,1,3,1,1,Full Time,Home (with parents),1 - 2 hours,None,More than 4 Hours,1.3
+Female,25 years and above,College - Bachelor's,2,2,1,2,2,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,4
+Female,19 to 24 years,High School,2,3,1,2,4,3,3,2,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,4,3,1,3,4,2,2,3,1,Part Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,2.3
+Female,25 years and above,College - Bachelor's,2,1,2,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,4
+Female,25 years and above,College - Bachelor's,2,2,1,3,2,1,2,4,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,2.3
+Female,25 years and above,High School,3,4,2,3,2,3,3,2,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,4,4,4,1,1,1,1,2,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,4
+Female,19 to 24 years,High School,4,3,4,3,4,4,4,2,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,4
+Female,25 years and above,College - Bachelor's,2,3,1,2,4,4,2,4,2,Part Time,Private rented accommodation,More than 4 hours,1 - 3,More than 4 Hours,3.35
+Female,18 years or less,High School,3,1,3,4,1,2,2,1,1,No,Home (with parents),More than 4 hours,More than 6,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,4,3,2,4,4,4,2,1,3,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,1.3
+Female,19 to 24 years,College - Bachelor's,2,2,3,4,4,3,2,3,2,Full Time,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,4,4,4,4,4,4,4,2,No,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,4
+Female,25 years and above,College - Bachelor's,3,3,3,4,4,3,3,2,2,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,3,3,3,3,3,3,3,3,2,Full Time,Private rented accommodation,More than 4 hours,More than 6,More than 4 Hours,3.35
+Female,25 years and above,High School,2,2,1,2,4,4,4,2,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,2.3
+Male,19 to 24 years,College - Bachelor's,3,3,3,3,3,3,3,3,2,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,1 - 2 Hours,3.35
+Female,25 years and above,College - Bachelor's,1,1,1,4,4,1,4,2,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.35
+Female,18 years or less,College - Bachelor's,2,3,4,4,1,3,4,1,1,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,4
+Female,25 years and above,College - Bachelor's,2,1,1,2,2,3,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Female,18 years or less,High School,3,2,4,4,4,3,2,1,2,Part Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,1,1,1,2,2,1,1,2,1,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,2,2,2,2,4,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.35
+Male,19 to 24 years,High School,1,1,1,2,1,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,2 - 4 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,2,2,4,1,1,2,2,1,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,High School,2,2,2,2,2,2,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,2,2,3,4,3,3,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,19 to 24 years,High School,3,2,2,2,3,3,1,4,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.3
+Female,19 to 24 years,College - Bachelor's,2,4,4,4,3,4,2,4,2,Part Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.35
+Female,19 to 24 years,High School,2,1,2,2,4,2,1,2,1,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,1 - 2 Hours,1.3
+Female,19 to 24 years,High School,3,4,3,4,4,3,2,3,2,Full Time,Home (with parents),More than 4 hours,More than 6,2 - 4 Hours,3.35
+Female,18 years or less,High School,2,1,2,3,2,1,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.35
+Female,19 to 24 years,College - Bachelor's,2,1,4,4,3,1,4,4,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4
+Female,25 years and above,College - Bachelor's,4,3,4,4,4,4,4,3,2,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,1.3
+Female,19 to 24 years,College - Bachelor's,4,4,2,4,3,4,4,3,2,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4
+Female,25 years and above,College - Bachelor's,4,4,2,2,2,2,2,2,3,Full Time,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,3,3,3,3,3,3,3,3,2,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,4,4,3,4,4,2,2,3,Full Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,3.35
+Female,18 years or less,High School,3,1,3,2,3,1,1,1,1,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,2.3
+Male,19 to 24 years,College - Bachelor's,3,2,4,4,3,3,4,3,2,Part Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.34
+Male,19 to 24 years,College - Bachelor's,2,1,2,1,1,1,1,1,1,Part Time,University hall of residence,1 - 2 hours,1 - 3,1 - 2 Hours,4.64
+Female,18 years or less,High School,2,2,2,2,1,1,2,2,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,1.28
+Female,18 years or less,High School,3,1,2,3,3,1,1,1,2,No,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,4.53
+Male,18 years or less,High School,1,2,2,3,1,1,3,1,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.68
+Female,25 years and above,Master,1,2,3,4,3,1,3,3,1,Part Time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,1.32
+Female,19 to 24 years,College - Bachelor's,2,2,3,3,1,1,2,2,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.74
+Male,19 to 24 years,Master,3,3,3,3,3,3,3,3,3,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.41
+Female,19 to 24 years,College - Bachelor's,3,1,4,3,1,2,1,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,3.16
+Female,19 to 24 years,High School,3,4,2,2,4,3,4,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4
+Female,19 to 24 years,College - Bachelor's,2,4,4,3,2,3,4,1,3,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,3.35
+Female,25 years and above,College - Bachelor's,3,3,3,4,4,3,3,2,2,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4.76
+Female,19 to 24 years,College - Bachelor's,3,3,3,3,3,3,3,3,2,Full Time,Private rented accommodation,More than 4 hours,More than 6,More than 4 Hours,3.63
+Female,25 years and above,High School,2,2,1,2,4,4,4,2,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,1.19
+Male,19 to 24 years,College - Bachelor's,3,3,3,3,3,3,3,3,2,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,1 - 2 Hours,4.7
+Female,25 years and above,College - Bachelor's,1,1,1,4,4,1,4,2,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,1.93
+Female,18 years or less,College - Bachelor's,2,3,4,4,1,3,4,1,1,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.15
+Female,25 years and above,College - Bachelor's,2,1,1,2,2,3,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.69
+Female,18 years or less,High School,3,2,4,4,4,3,2,1,2,Part Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,1.51
+Female,19 to 24 years,College - Bachelor's,1,1,1,2,2,1,1,2,1,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,1.19
+Female,25 years and above,College - Bachelor's,3,2,2,2,2,4,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,4.38
+Male,19 to 24 years,High School,1,1,1,2,1,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,2 - 4 Hours,4.41
+Female,19 to 24 years,College - Bachelor's,2,2,1,1,1,1,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,1.83
+Female,19 to 24 years,College - Bachelor's,3,4,4,3,4,4,4,2,2,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4.18
+Female,25 years and above,College - Bachelor's,2,3,3,4,3,3,3,3,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.23
+Female,19 to 24 years,High School,2,2,1,2,4,3,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,4.66
+Female,25 years and above,College - Bachelor's,4,3,4,4,2,1,1,3,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,2.25
+Female,19 to 24 years,College - Bachelor's,2,2,3,2,3,3,3,2,2,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,1.93
+Female,18 years or less,High School,2,1,4,4,3,3,3,1,2,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.86
+Female,19 to 24 years,College - Bachelor's,4,4,3,3,3,3,2,1,1,No,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,2.66
+Female,25 years and above,College - Bachelor's,4,4,3,3,4,4,3,2,4,Part Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,4.6
+Female,19 to 24 years,College - Bachelor's,3,3,4,4,3,3,3,2,3,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.71
+Female,25 years and above,College - Bachelor's,1,2,2,3,4,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,5
+Female,19 to 24 years,College - Bachelor's,3,3,1,4,4,2,4,3,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,1.96
+Female,25 years and above,College - Bachelor's,2,2,4,4,4,2,2,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.49
+Female,19 to 24 years,College - Bachelor's,4,2,4,4,4,4,1,2,1,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4.4
+Male,19 to 24 years,College - Bachelor's,2,2,1,4,1,4,1,2,3,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,1.49
+Male,19 to 24 years,High School,3,3,3,4,4,2,4,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,1.02
+Female,19 to 24 years,High School,2,1,1,2,3,1,3,1,1,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,2.08
+Female,25 years and above,College - Bachelor's,2,2,1,4,2,2,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.56
+Female,25 years and above,College - Bachelor's,3,3,3,4,2,4,4,2,2,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,1.58
+Female,25 years and above,College - Bachelor's,4,3,4,4,4,4,2,1,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.8
+Female,19 to 24 years,College - Bachelor's,3,1,4,2,4,1,1,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.31
+Female,19 to 24 years,High School,2,4,4,4,4,4,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.98
+Female,19 to 24 years,College - Bachelor's,2,1,1,1,1,2,3,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.96
+Female,19 to 24 years,College - Bachelor's,2,2,1,1,3,4,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,2.61
+Male,25 years and above,College - Bachelor's,3,3,4,4,4,1,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,3.54
+Female,19 to 24 years,College - Bachelor's,1,1,2,1,2,3,1,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,1 - 2 Hours,1.41
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.9
+Male,25 years and above,Master,2,2,2,3,1,2,3,2,1,Full Time,University hall of residence,2 - 4 hours,4 - 6,1 - 2 Hours,1.47
+Female,25 years and above,Master,3,3,1,4,3,3,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.94
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.43
+Female,18 years or less,High School,3,1,2,3,3,1,1,1,2,No,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,4.59
+Male,18 years or less,High School,1,2,2,3,1,1,3,1,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,1.64
+Female,25 years and above,Master,1,2,3,4,3,1,3,3,1,Part Time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,4.71
+Female,19 to 24 years,College - Bachelor's,2,2,3,3,1,1,2,2,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.33
+Male,19 to 24 years,Master,3,3,3,3,3,3,3,3,3,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,1.52
+Female,19 to 24 years,College - Bachelor's,3,1,4,3,1,2,1,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.59
+Female,19 to 24 years,High School,3,4,2,2,4,3,4,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.87
+Female,19 to 24 years,College - Bachelor's,2,4,4,3,2,3,4,1,3,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,4.93
+Female,25 years and above,Master,1,2,3,4,3,1,3,3,1,Part Time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,4.34
+Female,25 years and above,College - Bachelor's,2,1,2,2,2,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4.37
+Female,19 to 24 years,College - Bachelor's,2,1,3,2,1,3,2,1,1,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,1.44
+Female,25 years and above,College - Bachelor's,3,4,2,4,4,4,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.3
+Female,25 years and above,College - Bachelor's,4,3,2,4,2,4,4,2,4,Part Time,Home (with parents),1 - 2 hours,1 - 3,1 - 2 Hours,3.01
+Female,19 to 24 years,College - Bachelor's,3,2,2,3,4,4,3,3,4,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,4.66
+Female,19 to 24 years,College - Bachelor's,1,2,2,1,2,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.82
+Female,25 years and above,College - Bachelor's,2,2,2,2,3,2,2,2,2,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,1.31
+Female,25 years and above,College - Bachelor's,2,2,4,2,2,1,1,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.58
+Female,18 years or less,High School,4,4,4,3,4,4,1,4,4,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.17
+Female,19 to 24 years,College - Bachelor's,2,3,4,3,2,3,2,3,3,No,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,3.46
+Female,19 to 24 years,High School,2,2,2,2,3,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.82
+Female,25 years and above,College - Bachelor's,1,1,1,1,1,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,4.81
+Female,19 to 24 years,College - Bachelor's,3,2,4,4,2,2,4,4,2,No,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,3.38
+Female,19 to 24 years,High School,2,4,4,3,3,3,2,2,3,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.24
+Female,19 to 24 years,High School,2,1,4,2,4,1,4,2,1,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,1.89
+Female,19 to 24 years,College - Bachelor's,3,3,4,4,4,2,2,2,2,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.15
+Female,18 years or less,High School,4,4,4,4,4,4,4,2,4,No,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,3.89
+Male,18 years or less,High School,4,2,4,3,4,2,1,1,1,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.06
+Female,18 years or less,High School,3,2,1,2,2,3,3,2,2,No,Home (with parents),2 - 4 hours,More than 6,2 - 4 Hours,2.59
+Female,18 years or less,High School,3,1,2,3,3,1,1,2,2,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4.27
+Female,18 years or less,High School,1,2,2,1,1,1,2,1,2,No,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,3.87
+Male,18 years or less,High School,4,2,4,1,4,2,2,1,1,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,3.58
+Female,18 years or less,High School,2,2,3,2,4,2,2,1,4,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,4.49
+Female,25 years and above,High School,2,2,2,2,1,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,4.16
+Female,19 to 24 years,College - Bachelor's,1,4,4,4,4,4,4,1,3,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.04
+Female,19 to 24 years,College - Bachelor's,2,2,4,2,4,3,2,1,2,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,4.55
+Female,19 to 24 years,College - Bachelor's,3,2,4,1,2,4,2,2,2,No,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,4.65
+Female,19 to 24 years,College - Bachelor's,3,2,3,2,1,2,2,1,2,Part Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,4.03
+Female,19 to 24 years,College - Bachelor's,2,2,3,2,4,2,2,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,1.8
+Female,25 years and above,College - Bachelor's,2,3,3,2,4,2,2,2,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.47
+Female,19 to 24 years,College - Bachelor's,1,3,3,2,2,3,2,2,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4.87
+Female,19 to 24 years,High School,2,1,1,4,4,1,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,None,More than 4 Hours,3.19
+Female,25 years and above,College - Bachelor's,1,2,2,3,4,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.87
+Female,19 to 24 years,College - Bachelor's,3,3,1,4,4,2,4,3,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,2.03
+Female,25 years and above,College - Bachelor's,3,4,4,3,4,3,2,2,2,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.55
+Female,19 to 24 years,College - Bachelor's,4,1,2,1,1,1,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,2.78
+Female,19 to 24 years,High School,2,3,3,3,3,4,2,3,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.1
+Female,19 to 24 years,College - Bachelor's,3,2,3,2,3,3,1,1,1,Full Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,4.89
+Female,19 to 24 years,High School,4,3,4,4,3,3,2,4,2,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,1.26
+Female,25 years and above,College - Bachelor's,2,2,2,2,3,2,2,2,2,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,1.28
+Female,25 years and above,College - Bachelor's,2,2,4,2,2,1,1,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,1.7
+Female,18 years or less,High School,4,4,4,3,4,4,1,4,4,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4.35
+Female,19 to 24 years,College - Bachelor's,2,3,4,3,2,3,2,3,3,No,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,2.01
+Female,19 to 24 years,High School,2,2,2,2,3,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.37
+Female,25 years and above,College - Bachelor's,1,1,1,1,1,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,2.47
+Female,19 to 24 years,College - Bachelor's,3,2,4,4,2,2,4,4,2,No,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,3.22
+Female,19 to 24 years,High School,2,4,4,3,3,3,2,2,3,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.49
+Female,19 to 24 years,High School,2,1,4,2,4,1,4,2,1,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,2.23
+Female,19 to 24 years,College - Bachelor's,3,3,4,4,4,2,2,2,2,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.68
+Female,19 to 24 years,High School,2,1,1,3,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4.47
+Female,25 years and above,College - Bachelor's,3,2,1,3,2,2,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,1.75
+Female,19 to 24 years,High School,3,4,4,4,2,4,4,4,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.83
+Female,25 years and above,College - Bachelor's,2,3,4,3,4,4,2,2,2,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.39
+Female,19 to 24 years,High School,3,2,4,4,4,2,1,1,3,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.29
+Female,25 years and above,Master,4,3,4,4,2,3,3,3,1,No,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,3.55
+Female,19 to 24 years,College - Bachelor's,3,1,3,3,1,1,1,1,1,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.09
+Female,25 years and above,Master,3,2,2,2,2,2,1,1,1,No,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,3.19
+Female,18 years or less,High School,2,1,4,4,4,1,1,1,1,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,1.02
+Female,25 years and above,College - Bachelor's,3,1,4,3,3,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,4.32
+Female,19 to 24 years,High School,4,3,3,4,4,3,4,4,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.4
+Female,19 to 24 years,High School,3,3,4,4,4,2,3,2,1,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.01
+Female,19 to 24 years,College - Bachelor's,2,3,4,4,2,4,2,4,1,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,4.25
+Female,19 to 24 years,College - Bachelor's,1,2,4,1,1,4,1,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.38
+Male,25 years and above,College - Bachelor's,2,2,1,2,3,3,3,1,4,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,1.87
+Female,25 years and above,College - Bachelor's,1,2,2,2,2,1,1,1,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4.16
+Female,25 years and above,College - Bachelor's,1,1,2,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.82
+Female,19 to 24 years,College - Bachelor's,3,4,4,4,4,4,4,1,4,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.31
+Male,19 to 24 years,College - Bachelor's,4,2,2,1,4,2,1,2,1,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,2.36
+Female,19 to 24 years,College - Bachelor's,3,2,3,4,4,3,4,1,3,Full Time,Home (with parents),1 - 2 hours,4 - 6,Not Applicable,1.86
+Female,25 years and above,College - Bachelor's,2,2,2,2,2,1,2,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.05
+Female,18 years or less,College - Bachelor's,3,2,4,2,4,1,1,4,1,No,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4.38
+Female,25 years and above,High School,3,2,4,3,4,2,2,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.4
+Female,19 to 24 years,College - Bachelor's,1,2,4,1,1,3,4,1,1,No,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,4.28
+Female,25 years and above,High School,2,2,2,2,1,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,4.55
+Female,19 to 24 years,College - Bachelor's,1,4,4,4,4,4,4,1,3,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.19
+Female,19 to 24 years,College - Bachelor's,2,2,4,2,4,3,2,1,2,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.82
+Female,19 to 24 years,College - Bachelor's,3,2,4,1,2,4,2,2,2,No,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,2.86
+Female,19 to 24 years,College - Bachelor's,3,2,3,2,1,2,2,1,2,Part Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.92
+Female,19 to 24 years,College - Bachelor's,2,2,3,2,4,2,2,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,4.28
+Female,25 years and above,College - Bachelor's,2,3,3,2,4,2,2,2,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,1.44
+Female,19 to 24 years,College - Bachelor's,1,3,3,2,2,3,2,2,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.29
+Female,19 to 24 years,High School,2,1,1,4,4,1,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,None,More than 4 Hours,3.81
+Female,25 years and above,College - Bachelor's,1,2,2,3,4,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.05
+Female,19 to 24 years,College - Bachelor's,3,3,1,4,4,2,4,3,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,4.64
+Female,25 years and above,College - Bachelor's,2,2,4,4,4,2,2,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.34
+Female,19 to 24 years,College - Bachelor's,4,2,4,4,4,4,1,2,1,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4.39
+Male,19 to 24 years,College - Bachelor's,2,2,1,4,1,4,1,2,3,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,3.79
+Male,19 to 24 years,High School,3,3,3,4,4,2,4,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.56
+Female,19 to 24 years,High School,2,1,1,2,3,1,3,1,1,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.23
+Male,19 to 24 years,College - Bachelor's,1,1,3,2,1,1,2,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,1.27
+Female,19 to 24 years,College - Bachelor's,1,1,1,2,1,2,1,1,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.16
+Female,25 years and above,College - Bachelor's,1,1,2,2,1,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.99
+Male,25 years and above,College - Bachelor's,4,4,4,4,4,4,4,4,4,Full Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,1.52
+Male,19 to 24 years,High School,2,3,4,4,4,3,4,2,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.97
+Female,25 years and above,College - Bachelor's,3,3,4,3,3,3,2,1,3,No,Home (with parents),More than 4 hours,More than 6,2 - 4 Hours,4.97
+Female,25 years and above,Master,4,3,1,4,4,3,4,2,2,Full Time,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,3.81
+Female,19 to 24 years,College - Bachelor's,4,4,4,4,4,4,3,2,4,No,Private rented accommodation,More than 4 hours,4 - 6,More than 4 Hours,4.59
+Male,19 to 24 years,College - Bachelor's,2,1,1,1,1,2,1,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,2.26
+Female,18 years or less,High School,2,1,3,3,2,3,1,1,1,No,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,4.12
+Male,25 years and above,College - Bachelor's,1,2,1,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,2.18
+Female,19 to 24 years,High School,2,3,4,4,4,3,3,2,2,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,1.82
+Female,19 to 24 years,High School,3,4,2,2,4,3,4,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.17
+Female,25 years and above,College - Bachelor's,3,2,4,2,4,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,4.98
+Female,25 years and above,College - Bachelor's,2,2,3,2,1,1,2,1,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,2.36
+Female,19 to 24 years,College - Bachelor's,2,1,3,2,3,3,2,1,1,No,Private rented accommodation,More than 4 hours,1 - 3,More than 4 Hours,3.5
+Female,18 years or less,High School,2,3,4,1,3,2,3,2,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4.54
+Male,25 years and above,Master,1,1,3,2,1,1,1,2,1,Full Time,Private rented accommodation,More than 4 hours,4 - 6,1 - 2 Hours,4.14
+Female,19 to 24 years,High School,4,2,4,4,4,2,2,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.51
+Female,25 years and above,Master,2,2,2,3,2,1,2,1,1,Part Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.51
+Male,25 years and above,High School,2,2,4,3,3,3,2,2,3,No,Home (with parents),More than 4 hours,4 - 6,2 - 4 Hours,3.6
+Female,19 to 24 years,College - Bachelor's,2,1,2,1,1,2,2,3,3,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,1.51
+Female,19 to 24 years,High School,2,3,3,4,4,4,1,1,2,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.11
+Male,25 years and above,Master,2,2,2,2,1,2,2,1,1,Part Time,Private rented accommodation,More than 4 hours,1 - 3,1 - 2 Hours,3.71
+Male,25 years and above,Master,1,2,3,1,2,1,3,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,1.12
+Female,19 to 24 years,College - Bachelor's,2,2,4,3,3,2,3,1,2,No,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,4.11
+Female,25 years and above,College - Bachelor's,1,2,4,3,4,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,4.98
+Female,19 to 24 years,High School,2,2,1,2,2,2,3,2,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.05
+Female,19 to 24 years,College - Bachelor's,1,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,5
+Female,25 years and above,College - Bachelor's,1,1,1,2,3,3,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.84
+Female,19 to 24 years,Master,2,2,4,4,4,1,4,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.07
+Male,19 to 24 years,College - Bachelor's,3,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,4.18
+Male,19 to 24 years,Master,1,2,4,2,2,2,1,3,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,1.6
+Male,25 years and above,College - Bachelor's,3,3,4,4,4,1,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,2.87
+Female,19 to 24 years,College - Bachelor's,1,1,2,1,2,3,1,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,1 - 2 Hours,3.1
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,4.62
+Male,25 years and above,Master,2,2,2,3,1,2,3,2,1,Full Time,University hall of residence,2 - 4 hours,4 - 6,1 - 2 Hours,4.83
+Female,25 years and above,Master,3,3,1,4,3,3,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,1.65
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,1.23
+Female,19 to 24 years,College - Bachelor's,2,2,2,4,2,2,2,1,1,No,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.7
+Male,25 years and above,Master,2,2,2,2,2,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,2.25
+Male,25 years and above,Master,2,2,2,2,2,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,4.71
+Female,25 years and above,High School,1,2,1,2,2,4,2,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.7
+Female,19 to 24 years,College - Bachelor's,2,4,4,3,3,3,3,3,1,No,Private rented accommodation,More than 4 hours,4 - 6,2 - 4 Hours,3.59
+Female,25 years and above,College - Bachelor's,3,3,2,3,2,4,2,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.53
+Female,25 years and above,College - Bachelor's,3,3,4,4,4,4,4,3,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.87
+Female,19 to 24 years,College - Bachelor's,3,3,4,4,4,3,2,2,2,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,3.53
+Female,19 to 24 years,High School,2,3,3,3,3,3,3,2,2,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,1.97
+Female,25 years and above,College - Bachelor's,2,3,3,4,3,4,3,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.29
+Female,25 years and above,High School,3,1,1,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,2.46
+Female,25 years and above,College - Bachelor's,2,3,2,4,2,4,2,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.37
+Female,19 to 24 years,High School,1,1,2,1,1,1,1,1,1,No,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.27
+Male,25 years and above,High School,4,1,2,1,2,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,4.94
+Female,25 years and above,College - Bachelor's,3,4,3,3,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.13
+Female,18 years or less,High School,1,4,4,4,4,3,3,1,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,1.65
+Female,19 to 24 years,College - Bachelor's,3,2,3,3,2,3,3,3,2,No,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,2.21
+Female,19 to 24 years,High School,2,1,2,1,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.6
+Female,19 to 24 years,High School,2,3,4,4,4,3,4,4,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,1.64
+Female,19 to 24 years,College - Bachelor's,4,4,4,3,1,4,3,3,4,Part Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.99
+Female,25 years and above,College - Bachelor's,3,3,2,2,2,4,1,1,1,Full Time,Home (with parents),1 - 2 hours,More than 6,1 - 2 Hours,1.51
+Female,25 years and above,College - Bachelor's,3,1,3,3,2,2,3,1,1,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.69
+Female,25 years and above,College - Bachelor's,1,2,3,2,2,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4.45
+Female,19 to 24 years,High School,2,1,2,3,2,1,3,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4.74
+Female,25 years and above,College - Bachelor's,2,1,1,2,2,2,2,1,1,No,Private rented accommodation,More than 4 hours,1 - 3,2 - 4 Hours,4.19
+Female,25 years and above,High School,2,2,2,2,1,2,2,2,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.22
+Female,25 years and above,College - Bachelor's,2,4,4,3,4,4,2,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.45
+Female,19 to 24 years,College - Bachelor's,2,1,3,2,1,2,2,3,1,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.87
+Female,19 to 24 years,College - Bachelor's,2,2,4,3,2,3,4,4,1,Full Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,1.94
+Female,19 to 24 years,High School,2,1,4,4,1,2,1,1,1,No,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.11
+Female,25 years and above,College - Bachelor's,1,1,1,1,1,1,1,1,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,3.99
+Female,25 years and above,College - Bachelor's,1,1,1,1,1,1,1,1,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,1.95
+Female,19 to 24 years,High School,2,1,1,2,2,1,1,1,1,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.97
+Female,25 years and above,College - Bachelor's,2,2,2,2,4,2,1,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,1.25
+Female,19 to 24 years,High School,3,3,4,2,3,2,1,1,1,Part Time,Home (with parents),2 - 4 hours,More than 6,1 - 2 Hours,4.02
+Female,25 years and above,College - Bachelor's,2,2,4,4,2,4,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.1
+Female,18 years or less,College - Bachelor's,1,4,4,3,3,2,1,1,1,Part Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.29
+Female,19 to 24 years,High School,2,1,2,2,2,3,1,1,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,3.99
+Female,19 to 24 years,College - Bachelor's,2,1,2,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.2
+Female,19 to 24 years,High School,3,3,4,4,4,4,4,3,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4
+Female,25 years and above,High School,4,4,4,4,4,4,4,4,4,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,1.3
+Female,19 to 24 years,High School,1,1,3,3,1,1,1,1,1,Full Time,Home (with parents),More than 4 hours,1 - 3,1 - 2 Hours,3.37
+Female,19 to 24 years,High School,4,4,4,4,4,4,4,4,4,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,2.33
+Female,19 to 24 years,High School,3,4,4,4,1,4,2,4,4,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,2.88
+Female,19 to 24 years,High School,2,2,2,2,2,2,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,1.36
+Female,19 to 24 years,High School,3,3,4,4,4,4,4,4,3,Part Time,Private rented accommodation,More than 4 hours,1 - 3,2 - 4 Hours,1.96
+Female,19 to 24 years,High School,2,2,2,2,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.09
+Female,25 years and above,College - Bachelor's,2,3,4,4,1,3,4,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,1.75
+Female,19 to 24 years,College - Bachelor's,1,2,3,3,3,1,1,1,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,1.66
+Female,19 to 24 years,High School,4,3,4,4,4,3,2,4,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.04
+Female,25 years and above,College - Bachelor's,2,2,4,4,2,3,4,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.39
+Female,19 to 24 years,College - Bachelor's,2,2,2,4,2,3,2,4,1,Part Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.17
+Female,25 years and above,College - Bachelor's,2,1,3,3,3,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.55
+Female,25 years and above,College - Bachelor's,3,4,4,3,4,3,2,2,2,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.6
+Female,19 to 24 years,College - Bachelor's,4,1,2,1,1,1,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,1.66
+Female,19 to 24 years,High School,2,3,3,3,3,4,2,3,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.58
+Female,19 to 24 years,College - Bachelor's,3,2,3,2,3,3,1,1,1,Full Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,2.92
+Female,19 to 24 years,High School,4,3,4,4,3,3,2,4,2,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.62
+Female,25 years and above,College - Bachelor's,2,2,2,2,3,2,2,2,2,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,4.29
+Female,25 years and above,College - Bachelor's,2,2,4,2,2,1,1,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.47
+Female,18 years or less,High School,4,4,4,3,4,4,1,4,4,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,3.3
+Female,19 to 24 years,College - Bachelor's,2,3,4,3,2,3,2,3,3,No,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,1.29
+Female,19 to 24 years,High School,2,2,2,2,3,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.97
+Female,25 years and above,College - Bachelor's,1,1,1,1,1,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,2.89
+Female,19 to 24 years,College - Bachelor's,3,2,4,4,2,2,4,4,2,No,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.66
+Female,19 to 24 years,High School,2,4,4,3,3,3,2,2,3,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.73
+Female,19 to 24 years,High School,2,1,4,2,4,1,4,2,1,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.69
+Female,19 to 24 years,College - Bachelor's,3,3,4,4,4,2,2,2,2,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4.25
+Female,19 to 24 years,High School,2,1,1,3,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.93
+Female,25 years and above,College - Bachelor's,3,2,1,3,2,2,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.98
+Female,19 to 24 years,High School,3,4,4,4,2,4,4,4,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,1.22
+Female,25 years and above,College - Bachelor's,2,3,4,3,4,4,2,2,2,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,1.45
+Female,19 to 24 years,High School,3,2,4,4,4,2,1,1,3,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.99
+Female,25 years and above,Master,4,3,4,4,2,3,3,3,1,No,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,2.07
+Female,19 to 24 years,College - Bachelor's,3,1,3,3,1,1,1,1,1,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.73
+Female,25 years and above,Master,3,2,2,2,2,2,1,1,1,No,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,2.66
+Female,18 years or less,High School,2,1,4,4,4,1,1,1,1,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,1.24
+Female,25 years and above,College - Bachelor's,3,1,4,3,3,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,4.23
+Female,19 to 24 years,High School,4,3,3,4,4,3,4,4,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.69
+Female,19 to 24 years,High School,3,3,4,4,4,2,3,2,1,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,1.05
+Female,25 years and above,College - Bachelor's,3,2,4,4,4,4,1,2,4,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4.97
+Female,25 years and above,College - Bachelor's,3,1,4,3,2,1,2,1,4,Full Time,Home (with parents),More than 4 hours,More than 6,More than 4 Hours,3.23
+Female,25 years and above,College - Bachelor's,3,3,3,2,2,3,2,2,4,Part Time,Private rented accommodation,More than 4 hours,More than 6,More than 4 Hours,3.5
+Female,25 years and above,High School,1,1,4,3,1,3,2,3,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.5
+Female,19 to 24 years,College - Bachelor's,3,3,3,3,2,3,1,1,3,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,3.22
+Female,19 to 24 years,High School,3,2,3,4,2,4,4,2,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,4.28
+Female,25 years and above,Master,2,1,2,2,1,1,2,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.27
+Female,25 years and above,College - Bachelor's,2,2,1,2,1,2,1,1,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.43
+Female,19 to 24 years,High School,3,4,2,3,1,4,3,2,2,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.14
+Female,19 to 24 years,High School,3,4,4,3,3,4,2,1,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4.66
+Female,19 to 24 years,College - Bachelor's,2,2,3,4,4,4,2,2,1,No,Home (with parents),More than 4 hours,1 - 3,2 - 4 Hours,4.01
+Female,25 years and above,High School,4,4,4,4,3,4,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.02
+Male,25 years and above,Master,2,2,2,2,2,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,4.63
+Male,25 years and above,College - Bachelor's,2,2,4,1,2,3,3,2,3,No,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,2.19
+Female,18 years or less,High School,4,4,4,4,4,4,4,2,4,No,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,2.59
+Male,18 years or less,High School,4,2,4,3,4,2,1,1,1,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,1.52
+Female,18 years or less,High School,3,2,1,2,2,3,3,2,2,No,Home (with parents),2 - 4 hours,More than 6,2 - 4 Hours,3.04
+Female,18 years or less,High School,3,1,2,3,3,1,1,2,2,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4.35
+Female,18 years or less,High School,1,2,2,1,1,1,2,1,2,No,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,2.33
+Male,18 years or less,High School,4,2,4,1,4,2,2,1,1,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.87
+Female,18 years or less,High School,2,2,3,2,4,2,2,1,4,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,4.78
+Female,18 years or less,High School,2,2,3,2,4,2,2,1,4,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,1.37
+Female,18 years or less,High School,3,2,1,3,2,4,4,2,4,No,Home (with parents),More than 4 hours,More than 6,2 - 4 Hours,3.61
+Female,18 years or less,High School,3,1,2,3,3,1,1,2,2,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,2.66
+Male,25 years and above,College - Bachelor's,1,2,2,2,3,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.68
+Female,18 years or less,High School,2,2,3,2,4,2,2,1,4,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,2.37
+Female,25 years and above,College - Bachelor's,1,1,4,2,3,2,2,2,1,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4.24
+Female,25 years and above,Master,1,1,3,2,2,1,1,1,1,Full Time,Private rented accommodation,More than 4 hours,4 - 6,2 - 4 Hours,2.4
+Female,18 years or less,High School,3,2,4,3,3,2,2,1,1,No,Home (with parents),More than 4 hours,1 - 3,Not Applicable,3.24
+Male,25 years and above,College - Bachelor's,2,1,1,2,1,1,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,1 - 2 Hours,2.15
+Female,25 years and above,College - Bachelor's,3,2,4,4,3,1,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,1.62
+Female,18 years or less,High School,1,1,1,1,1,1,1,1,1,Part Time,Home (with parents),1 - 2 hours,None,1 - 2 Hours,4.93
+Male,19 to 24 years,College - Bachelor's,2,2,4,3,3,2,3,2,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,4.12
+Female,25 years and above,College - Bachelor's,2,2,1,3,1,2,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,1.73
+Female,19 to 24 years,College - Bachelor's,3,1,3,3,4,3,3,3,2,No,Home (with parents),2 - 4 hours,1 - 3,1 - 2 Hours,2.1
+Female,19 to 24 years,College - Bachelor's,4,4,4,3,3,4,2,4,2,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,2.88
+Female,19 to 24 years,High School,2,2,3,3,2,3,1,1,1,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,4.42
+Female,19 to 24 years,High School,1,1,1,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.19
+Female,25 years and above,College - Bachelor's,3,1,2,4,4,1,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.53
+Female,18 years or less,High School,3,1,2,3,3,1,1,1,2,No,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,2.99
+Male,18 years or less,High School,1,2,2,3,1,1,3,1,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.5
+Female,25 years and above,Master,1,2,3,4,3,1,3,3,1,Part Time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,2.74
+Female,19 to 24 years,College - Bachelor's,2,2,3,3,1,1,2,2,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,1.9
+Male,19 to 24 years,Master,3,3,3,3,3,3,3,3,3,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.03
+Female,19 to 24 years,College - Bachelor's,3,1,4,3,1,2,1,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.38
+Female,19 to 24 years,High School,3,4,2,2,4,3,4,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.55
+Female,19 to 24 years,College - Bachelor's,2,4,4,3,2,3,4,1,3,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.72
+Female,25 years and above,Master,1,2,3,4,3,1,3,3,1,Part Time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,3.03
+Male,25 years and above,Master,1,1,3,3,1,1,3,1,1,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,Not Applicable,3.52
+Male,18 years or less,High School,1,1,1,1,1,1,1,1,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,1.96
+Male,25 years and above,College - Bachelor's,1,1,1,1,2,2,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,1 - 2 Hours,4.32
+Male,19 to 24 years,College - Bachelor's,1,1,3,2,1,1,2,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.31
+Female,19 to 24 years,College - Bachelor's,1,1,1,2,1,2,1,1,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,3.78
+Female,25 years and above,College - Bachelor's,1,1,2,2,1,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.88
+Male,25 years and above,College - Bachelor's,4,4,4,4,4,4,4,4,4,Full Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,1.15
+Male,19 to 24 years,High School,2,3,4,4,4,3,4,2,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.96
+Female,25 years and above,College - Bachelor's,3,3,4,3,3,3,2,1,3,No,Home (with parents),More than 4 hours,More than 6,2 - 4 Hours,3.48
+Female,25 years and above,Master,4,3,1,4,4,3,4,2,2,Full Time,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,2.08
+Female,19 to 24 years,College - Bachelor's,4,4,4,4,4,4,3,2,4,No,Private rented accommodation,More than 4 hours,4 - 6,More than 4 Hours,3.63
+Male,19 to 24 years,College - Bachelor's,2,1,1,1,1,2,1,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,2.03
+Female,18 years or less,High School,2,1,3,3,2,3,1,1,1,No,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,2.87
+Male,25 years and above,College - Bachelor's,1,2,1,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,2.83
+Female,19 to 24 years,High School,2,3,4,4,4,3,3,2,2,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,2.4
+Female,19 to 24 years,High School,3,4,2,2,4,3,4,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.93
+Female,19 to 24 years,College - Bachelor's,2,4,4,3,3,3,3,3,1,No,Private rented accommodation,More than 4 hours,4 - 6,2 - 4 Hours,4.87
+Female,25 years and above,College - Bachelor's,3,3,2,3,2,4,2,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.54
+Female,25 years and above,College - Bachelor's,3,3,4,4,4,4,4,3,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.7
+Female,19 to 24 years,College - Bachelor's,3,3,4,4,4,3,2,2,2,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4.3
+Female,19 to 24 years,High School,2,3,3,3,3,3,3,2,2,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.48
+Female,25 years and above,College - Bachelor's,2,3,3,4,3,4,3,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.49
+Female,25 years and above,High School,3,1,1,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,1.62
+Female,25 years and above,College - Bachelor's,2,3,2,4,2,4,2,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.15
+Female,19 to 24 years,High School,1,1,2,1,1,1,1,1,1,No,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,1.63
+Male,25 years and above,High School,4,1,2,1,2,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,2.61
+Female,25 years and above,College - Bachelor's,3,4,3,3,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.92
+Female,18 years or less,High School,1,4,4,4,4,3,3,1,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,3.42
+Female,19 to 24 years,College - Bachelor's,3,2,3,3,2,3,3,3,2,No,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,1.71
+Female,19 to 24 years,High School,2,1,2,1,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.95
+Female,19 to 24 years,High School,2,3,4,4,4,3,4,4,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.63
+Female,19 to 24 years,College - Bachelor's,4,4,4,3,1,4,3,3,4,Part Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,3.08
+Female,25 years and above,College - Bachelor's,3,3,2,2,2,4,1,1,1,Full Time,Home (with parents),1 - 2 hours,More than 6,1 - 2 Hours,4.18
+Female,25 years and above,College - Bachelor's,3,1,3,3,2,2,3,1,1,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,1.43
+Female,25 years and above,College - Bachelor's,1,2,3,2,2,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4.11
+Female,19 to 24 years,High School,2,1,2,3,2,1,3,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,1.05
+Female,25 years and above,College - Bachelor's,2,1,1,2,2,2,2,1,1,No,Private rented accommodation,More than 4 hours,1 - 3,2 - 4 Hours,4.71
+Female,25 years and above,High School,2,2,2,2,1,2,2,2,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,4.7
+Female,25 years and above,College - Bachelor's,2,4,4,3,4,4,2,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,1.64
+Female,19 to 24 years,College - Bachelor's,2,1,3,2,1,2,2,3,1,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,1.83
+Female,19 to 24 years,College - Bachelor's,2,2,4,3,2,3,4,4,1,Full Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,4.46
+Female,19 to 24 years,High School,2,1,4,4,1,2,1,1,1,No,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,1.12
+Female,19 to 24 years,College - Bachelor's,2,1,3,2,3,3,2,1,1,No,Private rented accommodation,More than 4 hours,1 - 3,More than 4 Hours,1.14
+Female,18 years or less,High School,2,3,4,1,3,2,3,2,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.17
+Male,25 years and above,Master,1,1,3,2,1,1,1,2,1,Full Time,Private rented accommodation,More than 4 hours,4 - 6,1 - 2 Hours,4.97
+Female,19 to 24 years,High School,4,2,4,4,4,2,2,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.89
+Female,25 years and above,Master,2,2,2,3,2,1,2,1,1,Part Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.67
+Male,25 years and above,High School,2,2,4,3,3,3,2,2,3,No,Home (with parents),More than 4 hours,4 - 6,2 - 4 Hours,4.74
+Female,19 to 24 years,College - Bachelor's,2,1,2,1,1,2,2,3,3,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,1.94
+Female,19 to 24 years,High School,2,3,3,4,4,4,1,1,2,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,1.39
+Male,25 years and above,Master,2,2,2,2,1,2,2,1,1,Part Time,Private rented accommodation,More than 4 hours,1 - 3,1 - 2 Hours,3.83
+Male,25 years and above,Master,1,2,3,1,2,1,3,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.99
+Female,19 to 24 years,College - Bachelor's,2,2,4,3,3,2,3,1,2,No,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.4
+Female,25 years and above,College - Bachelor's,1,2,4,3,4,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,4.04
+Female,19 to 24 years,High School,2,2,1,2,2,2,3,2,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.35
+Female,19 to 24 years,College - Bachelor's,1,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.19
+Female,25 years and above,College - Bachelor's,1,1,1,2,3,3,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.96
+Female,19 to 24 years,Master,2,2,4,4,4,1,4,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.54
+Male,19 to 24 years,College - Bachelor's,3,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.58
+Male,19 to 24 years,Master,1,2,4,2,2,2,1,3,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.93
+Male,25 years and above,College - Bachelor's,3,3,4,4,4,1,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,3.65
+Female,19 to 24 years,College - Bachelor's,1,1,2,1,2,3,1,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,1 - 2 Hours,1.69
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.28
+Male,25 years and above,Master,2,2,2,3,1,2,3,2,1,Full Time,University hall of residence,2 - 4 hours,4 - 6,1 - 2 Hours,2.79
+Female,25 years and above,Master,3,3,1,4,3,3,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.24
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,1.73
+Female,19 to 24 years,College - Bachelor's,2,2,2,4,2,2,2,1,1,No,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.92
+Male,25 years and above,Master,2,2,2,2,2,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.84
+Male,25 years and above,Master,2,2,2,2,2,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,1.69
+Male,25 years and above,College - Bachelor's,2,2,4,1,2,3,3,2,3,No,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.95
+Female,19 to 24 years,College - Bachelor's,2,1,2,2,1,1,1,1,1,No,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,4.67
+Female,25 years and above,College - Bachelor's,2,3,4,3,4,2,2,3,1,Part Time,Home (with parents),More than 4 hours,More than 6,More than 4 Hours,2.17
+Female,25 years and above,College - Bachelor's,2,1,1,1,2,1,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,1.38
+Female,25 years and above,High School,1,2,1,2,2,4,2,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,1.34
+Female,19 to 24 years,College - Bachelor's,2,4,4,3,3,3,3,3,1,No,Private rented accommodation,More than 4 hours,4 - 6,2 - 4 Hours,4.56
+Female,25 years and above,College - Bachelor's,3,3,2,3,2,4,2,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.2
+Female,25 years and above,College - Bachelor's,3,3,4,4,4,4,4,3,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.14
+Female,19 to 24 years,College - Bachelor's,3,3,4,4,4,3,2,2,2,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4.8
+Female,19 to 24 years,High School,2,3,3,3,3,3,3,2,2,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4.72
+Female,25 years and above,College - Bachelor's,2,3,3,4,3,4,3,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.67
+Female,25 years and above,High School,3,1,1,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,1.18
+Female,25 years and above,College - Bachelor's,2,3,2,4,2,4,2,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.66
+Female,19 to 24 years,High School,1,1,2,1,1,1,1,1,1,No,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,1.21
+Male,25 years and above,High School,4,1,2,1,2,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.25
+Female,25 years and above,College - Bachelor's,3,4,3,3,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.11
+Female,18 years or less,High School,1,4,4,4,4,3,3,1,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,1.97
+Female,19 to 24 years,College - Bachelor's,3,2,3,3,2,3,3,3,2,No,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,4.36
+Female,19 to 24 years,High School,2,1,2,1,2,2,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.56
+Female,19 to 24 years,High School,2,3,4,4,4,3,4,4,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,2.86
+Female,19 to 24 years,College - Bachelor's,4,4,4,3,1,4,3,3,4,Part Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,3.8
+Female,25 years and above,College - Bachelor's,3,3,2,2,2,4,1,1,1,Full Time,Home (with parents),1 - 2 hours,More than 6,1 - 2 Hours,4.71
+Female,25 years and above,College - Bachelor's,3,1,3,3,2,2,3,1,1,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4.92
+Female,25 years and above,College - Bachelor's,1,2,3,2,2,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4.39
+Female,19 to 24 years,High School,2,1,2,3,2,1,3,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,3.6
+Female,25 years and above,College - Bachelor's,2,1,1,2,2,2,2,1,1,No,Private rented accommodation,More than 4 hours,1 - 3,2 - 4 Hours,4.87
+Female,25 years and above,High School,2,2,2,2,1,2,2,2,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.24
+Female,25 years and above,College - Bachelor's,2,4,4,3,4,4,2,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,1.75
+Female,19 to 24 years,College - Bachelor's,2,1,3,2,1,2,2,3,1,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4.16
+Female,19 to 24 years,College - Bachelor's,2,2,4,3,2,3,4,4,1,Full Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,4.83
+Female,19 to 24 years,High School,2,1,4,4,1,2,1,1,1,No,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,1.39
+Female,25 years and above,College - Bachelor's,1,1,1,1,1,1,1,1,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,1.84
+Female,25 years and above,College - Bachelor's,1,1,1,1,1,1,1,1,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,2 - 4 Hours,2.11
+Female,19 to 24 years,High School,2,1,1,2,2,1,1,1,1,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,1.87
+Female,25 years and above,College - Bachelor's,2,2,2,2,4,2,1,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,2.44
+Female,19 to 24 years,College - Bachelor's,1,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.71
+Female,25 years and above,College - Bachelor's,1,1,1,2,3,3,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.41
+Female,19 to 24 years,Master,2,2,4,4,4,1,4,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.72
+Male,19 to 24 years,College - Bachelor's,3,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,4.76
+Male,19 to 24 years,Master,1,2,4,2,2,2,1,3,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.77
+Male,25 years and above,College - Bachelor's,3,3,4,4,4,1,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,4.75
+Female,19 to 24 years,College - Bachelor's,1,1,2,1,2,3,1,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,1 - 2 Hours,2.51
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,1.1
+Male,25 years and above,Master,2,2,2,3,1,2,3,2,1,Full Time,University hall of residence,2 - 4 hours,4 - 6,1 - 2 Hours,2.61
+Female,25 years and above,Master,3,3,1,4,3,3,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,4.63
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.64
+Female,19 to 24 years,College - Bachelor's,2,2,2,4,2,2,2,1,1,No,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,2.02
+Male,25 years and above,Master,2,2,2,2,2,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.12
+Male,25 years and above,Master,2,2,2,2,2,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,2.54
+Male,25 years and above,College - Bachelor's,2,2,4,1,2,3,3,2,3,No,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.18
+Female,18 years or less,High School,4,4,4,4,4,4,4,2,4,No,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,3.29
+Male,18 years or less,High School,4,2,4,3,4,2,1,1,1,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,1.1
+Female,18 years or less,High School,3,2,1,2,2,3,3,2,2,No,Home (with parents),2 - 4 hours,More than 6,2 - 4 Hours,2.23
+Female,18 years or less,High School,3,1,2,3,3,1,1,2,2,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4.86
+Female,18 years or less,High School,1,2,2,1,1,1,2,1,2,No,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,1.02
+Male,18 years or less,High School,4,2,4,1,4,2,2,1,1,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.41
+Female,18 years or less,High School,2,2,3,2,4,2,2,1,4,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.78
+Female,18 years or less,High School,2,2,3,2,4,2,2,1,4,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.11
+Female,18 years or less,High School,3,2,1,3,2,4,4,2,4,No,Home (with parents),More than 4 hours,More than 6,2 - 4 Hours,2.97
+Female,18 years or less,High School,3,1,2,3,3,1,1,2,2,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,1.23
+Male,25 years and above,Master,1,1,3,3,1,1,3,1,1,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,Not Applicable,4.46
+Male,18 years or less,High School,1,1,1,1,1,1,1,1,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,1.52
+Male,25 years and above,College - Bachelor's,1,1,1,1,2,2,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,1 - 2 Hours,3.36
+Male,19 to 24 years,College - Bachelor's,1,1,3,2,1,1,2,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,4.5
+Female,19 to 24 years,College - Bachelor's,1,1,1,2,1,2,1,1,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4.52
+Female,25 years and above,College - Bachelor's,1,1,2,2,1,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.2
+Male,25 years and above,College - Bachelor's,4,4,4,4,4,4,4,4,4,Full Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,2.42
+Male,19 to 24 years,High School,2,3,4,4,4,3,4,2,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.15
+Female,25 years and above,College - Bachelor's,3,3,4,3,3,3,2,1,3,No,Home (with parents),More than 4 hours,More than 6,2 - 4 Hours,3.33
+Female,25 years and above,Master,4,3,1,4,4,3,4,2,2,Full Time,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,3.39
+Female,19 to 24 years,College - Bachelor's,4,4,4,4,4,4,3,2,4,No,Private rented accommodation,More than 4 hours,4 - 6,More than 4 Hours,2.16
+Male,19 to 24 years,College - Bachelor's,2,1,1,1,1,2,1,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,4.05
+Female,18 years or less,High School,2,1,3,3,2,3,1,1,1,No,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,1.94
+Male,25 years and above,College - Bachelor's,1,2,1,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,1.12
+Female,19 to 24 years,High School,2,3,4,4,4,3,3,2,2,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.14
+Female,19 to 24 years,High School,3,4,2,2,4,3,4,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.42
+Female,25 years and above,College - Bachelor's,3,2,4,2,4,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,4.14
+Female,25 years and above,College - Bachelor's,2,2,3,2,1,1,2,1,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,4.27
+Female,19 to 24 years,College - Bachelor's,2,1,3,2,3,3,2,1,1,No,Private rented accommodation,More than 4 hours,1 - 3,More than 4 Hours,2.74
+Female,18 years or less,High School,2,3,4,1,3,2,3,2,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4.38
+Male,25 years and above,Master,1,1,3,2,1,1,1,2,1,Full Time,Private rented accommodation,More than 4 hours,4 - 6,1 - 2 Hours,1.72
+Female,19 to 24 years,High School,4,2,4,4,4,2,2,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.6
+Female,25 years and above,Master,2,2,2,3,2,1,2,1,1,Part Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,3.86
+Male,25 years and above,High School,2,2,4,3,3,3,2,2,3,No,Home (with parents),More than 4 hours,4 - 6,2 - 4 Hours,4.53
+Female,19 to 24 years,College - Bachelor's,2,1,2,1,1,2,2,3,3,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.75
+Female,19 to 24 years,High School,2,3,3,4,4,4,1,1,2,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.41
+Male,25 years and above,Master,2,2,2,2,1,2,2,1,1,Part Time,Private rented accommodation,More than 4 hours,1 - 3,1 - 2 Hours,2.46
+Male,25 years and above,Master,1,2,3,1,2,1,3,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.42
+Female,19 to 24 years,College - Bachelor's,2,2,4,3,3,2,3,1,2,No,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,1.42
+Female,25 years and above,College - Bachelor's,1,2,4,3,4,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.76
+Female,19 to 24 years,High School,2,2,1,2,2,2,3,2,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4.5
+Female,19 to 24 years,College - Bachelor's,1,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,4.41
+Female,25 years and above,College - Bachelor's,1,1,1,2,3,3,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4.49
+Female,19 to 24 years,Master,2,2,4,4,4,1,4,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.21
+Male,19 to 24 years,College - Bachelor's,3,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,4.15
+Male,19 to 24 years,Master,1,2,4,2,2,2,1,3,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,2.21
+Male,25 years and above,College - Bachelor's,3,3,4,4,4,1,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,4.21
+Female,19 to 24 years,College - Bachelor's,1,1,2,1,2,3,1,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,1 - 2 Hours,3.11
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,4.6
+Male,25 years and above,Master,2,2,2,3,1,2,3,2,1,Full Time,University hall of residence,2 - 4 hours,4 - 6,1 - 2 Hours,1.23
+Female,25 years and above,Master,3,3,1,4,3,3,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,3.52
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.06
+Female,19 to 24 years,College - Bachelor's,3,3,3,3,3,3,3,3,2,Full Time,Private rented accommodation,More than 4 hours,More than 6,More than 4 Hours,3.51
+Female,25 years and above,High School,2,2,1,2,4,4,4,2,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,1.5
+Male,19 to 24 years,College - Bachelor's,3,3,3,3,3,3,3,3,2,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,1 - 2 Hours,2.8
+Female,25 years and above,College - Bachelor's,1,1,1,4,4,1,4,2,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,4.39
+Female,18 years or less,College - Bachelor's,2,3,4,4,1,3,4,1,1,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.16
+Female,25 years and above,College - Bachelor's,2,1,1,2,2,3,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,1.8
+Female,18 years or less,High School,3,2,4,4,4,3,2,1,2,Part Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,4.85
+Female,19 to 24 years,College - Bachelor's,1,1,1,2,2,1,1,2,1,Full Time,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,3.6
+Female,25 years and above,College - Bachelor's,3,2,2,2,2,4,2,2,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.55
+Male,19 to 24 years,High School,1,1,1,2,1,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,2 - 4 Hours,1.88
+Female,19 to 24 years,College - Bachelor's,2,2,4,1,1,2,2,1,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,3.74
+Female,19 to 24 years,High School,2,2,2,2,2,2,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,2.26
+Female,25 years and above,College - Bachelor's,2,2,3,4,3,3,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.97
+Female,19 to 24 years,High School,3,2,2,2,3,3,1,4,3,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.34
+Female,19 to 24 years,College - Bachelor's,2,4,4,4,3,4,2,4,2,Part Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.48
+Female,19 to 24 years,High School,2,1,2,2,4,2,1,2,1,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,1 - 2 Hours,1.95
+Female,19 to 24 years,High School,3,4,3,4,4,3,2,3,2,Full Time,Home (with parents),More than 4 hours,More than 6,2 - 4 Hours,3.3
+Female,18 years or less,High School,2,1,2,3,2,1,3,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,3.89
+Female,19 to 24 years,High School,2,1,4,2,4,1,4,2,1,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,1.93
+Female,19 to 24 years,College - Bachelor's,3,3,4,4,4,2,2,2,2,No,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,1.56
+Female,18 years or less,High School,4,4,4,4,4,4,4,2,4,No,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,4.49
+Male,18 years or less,High School,4,2,4,3,4,2,1,1,1,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,4.38
+Female,18 years or less,High School,3,2,1,2,2,3,3,2,2,No,Home (with parents),2 - 4 hours,More than 6,2 - 4 Hours,4.7
+Female,18 years or less,High School,3,1,2,3,3,1,1,2,2,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4.29
+Female,18 years or less,High School,1,2,2,1,1,1,2,1,2,No,Home (with parents),1 - 2 hours,More than 6,2 - 4 Hours,2.37
+Male,18 years or less,High School,4,2,4,1,4,2,2,1,1,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4.86
+Female,18 years or less,High School,2,2,3,2,4,2,2,1,4,No,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,1.86
+Female,25 years and above,High School,2,2,2,2,1,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,1.23
+Female,19 to 24 years,College - Bachelor's,1,4,4,4,4,4,4,1,3,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.43
+Female,19 to 24 years,College - Bachelor's,2,2,4,2,4,3,2,1,2,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,4.75
+Female,19 to 24 years,College - Bachelor's,3,2,4,1,2,4,2,2,2,No,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,2.76
+Female,19 to 24 years,College - Bachelor's,3,2,3,2,1,2,2,1,2,Part Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,2.97
+Female,19 to 24 years,College - Bachelor's,2,2,3,2,4,2,2,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.44
+Female,25 years and above,College - Bachelor's,2,3,3,2,4,2,2,2,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,2.04
+Female,19 to 24 years,College - Bachelor's,1,3,3,2,2,3,2,2,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,1.21
+Female,19 to 24 years,High School,2,1,1,4,4,1,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,None,More than 4 Hours,3.92
+Female,25 years and above,College - Bachelor's,1,2,2,3,4,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,4.72
+Female,19 to 24 years,College - Bachelor's,3,3,1,4,4,2,4,3,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,2
+Female,25 years and above,College - Bachelor's,3,4,4,3,4,3,2,2,2,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,3.11
+Female,19 to 24 years,College - Bachelor's,4,1,2,1,1,1,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.69
+Female,19 to 24 years,High School,2,3,3,3,3,4,2,3,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,4.81
+Female,19 to 24 years,College - Bachelor's,3,2,3,2,3,3,1,1,1,Full Time,Home (with parents),2 - 4 hours,More than 6,More than 4 Hours,3.26
+Female,19 to 24 years,High School,4,3,4,4,3,3,2,4,2,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.04
+Female,25 years and above,College - Bachelor's,2,2,2,2,3,2,2,2,2,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,2.6
+Female,25 years and above,College - Bachelor's,2,2,4,2,2,1,1,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.16
+Female,18 years or less,High School,4,4,4,3,4,4,1,4,4,No,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,3.48
+Male,25 years and above,High School,2,2,4,3,3,3,2,2,3,No,Home (with parents),More than 4 hours,4 - 6,2 - 4 Hours,2.99
+Female,19 to 24 years,College - Bachelor's,2,1,2,1,1,2,2,3,3,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,2.38
+Female,19 to 24 years,High School,2,3,3,4,4,4,1,1,2,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,4.29
+Male,25 years and above,Master,2,2,2,2,1,2,2,1,1,Part Time,Private rented accommodation,More than 4 hours,1 - 3,1 - 2 Hours,2.95
+Male,25 years and above,Master,1,2,3,1,2,1,3,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,4.61
+Female,19 to 24 years,College - Bachelor's,2,2,4,3,3,2,3,1,2,No,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,4.32
+Female,25 years and above,College - Bachelor's,1,2,4,3,4,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.92
+Female,19 to 24 years,High School,2,2,1,2,2,2,3,2,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.62
+Female,19 to 24 years,College - Bachelor's,1,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,4.09
+Female,25 years and above,College - Bachelor's,1,1,1,2,3,3,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,1.18
+Female,19 to 24 years,Master,2,2,4,4,4,1,4,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.36
+Male,19 to 24 years,College - Bachelor's,3,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.87
+Male,19 to 24 years,Master,1,2,4,2,2,2,1,3,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.58
+Male,25 years and above,College - Bachelor's,3,3,4,4,4,1,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,4.94
+Female,19 to 24 years,College - Bachelor's,1,1,2,1,2,3,1,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,1 - 2 Hours,4.33
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.82
+Male,25 years and above,Master,2,2,2,3,1,2,3,2,1,Full Time,University hall of residence,2 - 4 hours,4 - 6,1 - 2 Hours,2.61
+Female,25 years and above,Master,3,3,1,4,3,3,4,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,1.54
+Female,25 years and above,Master,3,1,3,4,1,2,2,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,4.5
+Female,19 to 24 years,College - Bachelor's,2,2,2,4,2,2,2,1,1,No,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,1.77
+Male,25 years and above,Master,2,2,2,2,2,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,2.94
+Male,25 years and above,Master,2,2,2,2,2,1,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,4.44
+Male,25 years and above,College - Bachelor's,2,2,4,1,2,3,3,2,3,No,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,1.53
+Female,18 years or less,High School,4,4,4,4,4,4,4,2,4,No,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,1.8
+Male,18 years or less,High School,4,2,4,3,4,2,1,1,1,No,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,4.86
+Female,18 years or less,High School,3,2,1,2,2,3,3,2,2,No,Home (with parents),2 - 4 hours,More than 6,2 - 4 Hours,1.03
+Female,25 years and above,Master,4,3,1,4,4,3,4,2,2,Full Time,Home (with parents),More than 4 hours,1 - 3,More than 4 Hours,1.71
+Female,19 to 24 years,College - Bachelor's,4,4,4,4,4,4,3,2,4,No,Private rented accommodation,More than 4 hours,4 - 6,More than 4 Hours,2.02
+Male,19 to 24 years,College - Bachelor's,2,1,1,1,1,2,1,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.94
+Female,18 years or less,High School,2,1,3,3,2,3,1,1,1,No,Home (with parents),More than 4 hours,4 - 6,More than 4 Hours,3.49
+Male,25 years and above,College - Bachelor's,1,2,1,2,1,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,2.09
+Female,19 to 24 years,High School,2,3,4,4,4,3,3,2,2,Part Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,4.52
+Female,19 to 24 years,High School,3,4,2,2,4,3,4,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.23
+Female,25 years and above,College - Bachelor's,3,2,4,2,4,1,1,1,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,4.52
+Female,25 years and above,College - Bachelor's,2,2,3,2,1,1,2,1,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,2.52
+Female,19 to 24 years,College - Bachelor's,2,1,3,2,3,3,2,1,1,No,Private rented accommodation,More than 4 hours,1 - 3,More than 4 Hours,2.55
+Female,18 years or less,High School,2,3,4,1,3,2,3,2,1,Part Time,Home (with parents),1 - 2 hours,4 - 6,More than 4 Hours,2.17
+Male,25 years and above,Master,1,1,3,2,1,1,1,2,1,Full Time,Private rented accommodation,More than 4 hours,4 - 6,1 - 2 Hours,2.44
+Female,19 to 24 years,High School,4,2,4,4,4,2,2,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.52
+Female,25 years and above,Master,2,2,2,3,2,1,2,1,1,Part Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,2.9
+Male,25 years and above,High School,2,2,4,3,3,3,2,2,3,No,Home (with parents),More than 4 hours,4 - 6,2 - 4 Hours,3.53
+Female,19 to 24 years,College - Bachelor's,2,1,2,1,1,2,2,3,3,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,3.43
+Female,19 to 24 years,High School,2,3,3,4,4,4,1,1,2,No,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.21
+Male,25 years and above,Master,2,2,2,2,1,2,2,1,1,Part Time,Private rented accommodation,More than 4 hours,1 - 3,1 - 2 Hours,2
+Male,25 years and above,Master,1,2,3,1,2,1,3,2,1,Full Time,Private rented accommodation,2 - 4 hours,1 - 3,More than 4 Hours,4.81
+Female,19 to 24 years,College - Bachelor's,2,2,4,3,3,2,3,1,2,No,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,3.22
+Female,25 years and above,College - Bachelor's,1,2,4,3,4,2,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,2.65
+Female,19 to 24 years,High School,2,2,1,2,2,2,3,2,1,Full Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,3.15
+Female,19 to 24 years,College - Bachelor's,1,1,2,2,2,1,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,2.77
+Female,25 years and above,College - Bachelor's,1,1,1,2,3,3,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.64
+Female,19 to 24 years,College - Bachelor's,1,2,4,1,1,3,4,1,1,No,Private rented accommodation,2 - 4 hours,1 - 3,1 - 2 Hours,2.94
+Female,25 years and above,High School,2,2,2,2,1,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,2 - 4 Hours,1.17
+Female,19 to 24 years,College - Bachelor's,1,4,4,4,4,4,4,1,3,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.65
+Female,19 to 24 years,College - Bachelor's,2,2,4,2,4,3,2,1,2,Part Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,2.02
+Female,19 to 24 years,College - Bachelor's,3,2,4,1,2,4,2,2,2,No,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,4.91
+Female,19 to 24 years,College - Bachelor's,3,2,3,2,1,2,2,1,2,Part Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,3.58
+Female,19 to 24 years,College - Bachelor's,2,2,3,2,4,2,2,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,1.77
+Female,25 years and above,College - Bachelor's,2,3,3,2,4,2,2,2,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,2.58
+Female,19 to 24 years,College - Bachelor's,1,3,3,2,2,3,2,2,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,1.83
+Female,19 to 24 years,High School,2,1,1,4,4,1,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,None,More than 4 Hours,4.35
+Female,25 years and above,College - Bachelor's,1,2,2,3,4,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,1.42
+Female,19 to 24 years,College - Bachelor's,3,3,1,4,4,2,4,3,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,3.99
+Female,25 years and above,College - Bachelor's,2,2,4,4,4,2,2,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.1
+Female,19 to 24 years,College - Bachelor's,4,2,4,4,4,4,1,2,1,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4.62
+Male,19 to 24 years,College - Bachelor's,2,2,1,4,1,4,1,2,3,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,1.67
+Male,19 to 24 years,High School,3,3,3,4,4,2,4,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.88
+Female,19 to 24 years,High School,2,1,1,2,3,1,3,1,1,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.83
+Female,25 years and above,College - Bachelor's,2,2,1,4,2,2,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.14
+Female,25 years and above,College - Bachelor's,3,3,3,4,2,4,4,2,2,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4.02
+Female,25 years and above,College - Bachelor's,4,3,4,4,4,4,2,1,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.55
+Female,19 to 24 years,College - Bachelor's,3,1,4,2,4,1,1,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.29
+Female,19 to 24 years,High School,2,4,4,4,4,4,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.52
+Female,19 to 24 years,College - Bachelor's,2,1,1,1,1,2,3,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.01
+Female,19 to 24 years,College - Bachelor's,2,2,1,1,3,4,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,3.78
+Female,19 to 24 years,High School,2,2,2,3,2,3,1,1,3,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.51
+Female,19 to 24 years,College - Bachelor's,2,1,2,2,1,1,1,1,1,No,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,3.56
+Female,25 years and above,College - Bachelor's,2,3,4,3,4,2,2,3,1,Part Time,Home (with parents),More than 4 hours,More than 6,More than 4 Hours,1.67
+Female,25 years and above,College - Bachelor's,2,1,1,1,2,1,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,1 - 2 Hours,3.18
+Female,25 years and above,High School,1,2,1,2,2,4,2,3,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,3.02
+Female,19 to 24 years,College - Bachelor's,2,4,4,3,3,3,3,3,1,No,Private rented accommodation,More than 4 hours,4 - 6,2 - 4 Hours,4.94
+Female,25 years and above,College - Bachelor's,3,3,2,3,2,4,2,1,1,No,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.75
+Female,19 to 24 years,College - Bachelor's,3,2,3,2,1,2,2,1,2,Part Time,Home (with parents),2 - 4 hours,4 - 6,More than 4 Hours,2.88
+Female,19 to 24 years,College - Bachelor's,2,2,3,2,4,2,2,2,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,More than 4 Hours,1.2
+Female,25 years and above,College - Bachelor's,2,3,3,2,4,2,2,2,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,1 - 2 Hours,4.58
+Female,19 to 24 years,College - Bachelor's,1,3,3,2,2,3,2,2,1,Part Time,Home (with parents),1 - 2 hours,1 - 3,2 - 4 Hours,4.88
+Female,19 to 24 years,High School,2,1,1,4,4,1,1,1,1,Part Time,Private rented accommodation,1 - 2 hours,None,More than 4 Hours,3.39
+Female,25 years and above,College - Bachelor's,1,2,2,3,4,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,2 - 4 Hours,1.11
+Female,19 to 24 years,College - Bachelor's,3,3,1,4,4,2,4,3,1,Part Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,4.12
+Female,25 years and above,College - Bachelor's,2,2,4,4,4,2,2,2,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.2
+Female,19 to 24 years,College - Bachelor's,4,2,4,4,4,4,1,2,1,No,Home (with parents),1 - 2 hours,More than 6,More than 4 Hours,4.42
+Male,19 to 24 years,College - Bachelor's,2,2,1,4,1,4,1,2,3,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,More than 4 Hours,3.73
+Male,19 to 24 years,High School,3,3,3,4,4,2,4,1,1,Full Time,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,2.68
+Female,19 to 24 years,High School,2,1,1,2,3,1,3,1,1,Part Time,Private rented accommodation,2 - 4 hours,1 - 3,2 - 4 Hours,3.45
+Female,25 years and above,College - Bachelor's,2,2,1,4,2,2,3,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.43
+Female,25 years and above,College - Bachelor's,3,3,3,4,2,4,4,2,2,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,3.62
+Female,25 years and above,College - Bachelor's,4,3,4,4,4,4,2,1,4,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.95
+Female,19 to 24 years,College - Bachelor's,3,1,4,2,4,1,1,1,2,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,2.15
+Female,19 to 24 years,High School,2,4,4,4,4,4,1,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,3.01
+Female,19 to 24 years,College - Bachelor's,2,1,1,1,1,2,3,1,1,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.65
+Female,19 to 24 years,College - Bachelor's,2,2,1,1,3,4,1,1,1,No,Private rented accommodation,1 - 2 hours,More than 6,More than 4 Hours,4.51
+Female,19 to 24 years,High School,2,2,2,3,2,3,1,1,3,No,Private rented accommodation,1 - 2 hours,4 - 6,More than 4 Hours,4.6
+Female,19 to 24 years,College - Bachelor's,2,1,2,2,1,1,1,1,1,No,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,3.41
+Female,25 years and above,College - Bachelor's,2,3,4,3,4,2,2,3,1,Part Time,Home (with parents),More than 4 hours,More than 6,More than 4 Hours,1.19
+Female,19 to 24 years,High School,3,4,2,2,4,3,4,1,2,Part Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,4.24
+Female,19 to 24 years,College - Bachelor's,2,4,4,3,2,3,4,1,3,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,2.76
+Female,25 years and above,Master,1,2,3,4,3,1,3,3,1,Part Time,Home (with parents),2 - 4 hours,4 - 6,2 - 4 Hours,1.21
+Male,25 years and above,Master,1,1,3,3,1,1,3,1,1,Full Time,Private rented accommodation,2 - 4 hours,4 - 6,Not Applicable,2.52
+Male,18 years or less,High School,1,1,1,1,1,1,1,1,1,No,Home (with parents),1 - 2 hours,1 - 3,More than 4 Hours,4.68
+Male,25 years and above,College - Bachelor's,1,1,1,1,2,2,2,1,1,Full Time,Private rented accommodation,2 - 4 hours,More than 6,1 - 2 Hours,1.15
+Male,19 to 24 years,College - Bachelor's,1,1,3,2,1,1,2,1,1,Full Time,Home (with parents),1 - 2 hours,4 - 6,2 - 4 Hours,2
+Female,19 to 24 years,College - Bachelor's,1,1,1,2,1,2,1,1,1,Full Time,Home (with parents),2 - 4 hours,1 - 3,2 - 4 Hours,4.16
+Female,25 years and above,College - Bachelor's,1,1,2,2,1,2,2,1,1,Full Time,Private rented accommodation,1 - 2 hours,1 - 3,More than 4 Hours,1.94
+Male,25 years and above,College - Bachelor's,4,4,4,4,4,4,4,4,4,Full Time,Private rented accommodation,1 - 2 hours,More than 6,2 - 4 Hours,4.45
+Female,19 to 24 years,College - Bachelor's,2,1,2,2,1,1,1,1,1,No,Private rented accommodation,2 - 4 hours,More than 6,More than 4 Hours,3.51
