@@ -1,3 +1,5 @@
+import subprocess
+subprocess.call(['pip', 'install', 'matplotlib'])
 import matplotlib
 import pandas as pd
 import streamlit as st
