@@ -1,5 +1,5 @@
 import subprocess
-subprocess.call(['conda', 'install', 'matplotlib'])
+subprocess.call(['pip', 'install', 'matplotlib'])
 import pandas as pd
 import streamlit as st
 from sklearn.ensemble import RandomForestClassifier
