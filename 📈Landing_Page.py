@@ -1,3 +1,4 @@
+import matplotlib
 import pandas as pd
 import streamlit as st
 from sklearn.ensemble import RandomForestClassifier
